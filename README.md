@@ -1,11 +1,11 @@
 # nice
 
+
 ## cat
-* [bat](https://github.com/sharkdp/bat)
+* [bat](https://github.com/sharkdp/bat) 
 
   ```bash
-  sudo apt install bat
-  brew install bat
+  bat on apt/brew
   ```
 
 ## cut
@@ -15,8 +15,7 @@
 * [duf](https://github.com/muesli/duf)
 
   ```bash
-  sudo apt install duf
-  brew install duf
+  duf on apt/brew
   ```
 
 ## du
@@ -29,8 +28,7 @@
 * [fd](https://github.com/sharkdp/fd) - really fast
 
   ```bash
-  sudo apt install fd-find
-  brew install fd
+  fd-find on apt, fd on brew
   ```
 
 
@@ -38,19 +36,22 @@
 * [rip-grep](https://github.com/BurntSushi/ripgrep) - really fast
 
   ```
-  sudo apt-get install ripgrep
-  brew install ripgrep
+  ripgrep on apt/brew
   ```
 
 ## httpie
 * [xh](https://github.com/ducaale/xh)
 
   ```bash
-  sudo apt install xh
+  xh on apt
   ```
 
 ## kubectl
 * [k9s](https://k9scli.io/)
+  ```bash
+  https://k9scli.io/topics/install/
+  ```
+  
 * [kdash](https://github.com/kdash-rs/kdash/)
 
 ## kubernetes
@@ -63,8 +64,7 @@
 * [exa](https://github.com/ogham/exa) - just a better ls
 
   ```bash
-  sudo apt install exa
-  brew install exa
+  exa on apt/brew
   ```
 
 ## prompt
@@ -72,7 +72,7 @@
 
   ```bash
   curl -sS https://starship.rs/install.sh | sh
-  brew install starship
+  starship on brew 
   ```
 
 
@@ -80,8 +80,7 @@
 * [trash](https://github.com/andreafrancia/trash-cli) - `rm -f` is insane. Figure that out before it bites you
 
   ```bash
-  sudo apt-get install trash-cli
-  brew install trash-cli
+  trash-cli on apt/brew
   ```
   
 * [rip](https://github.com/nivekuil/rip) - almost but default location which will fill up over time
@@ -90,7 +89,7 @@
 * [zellij](https://github.com/zellij-org/zellij)
 
   ```bash
-  brew install zellij
+  zellij on brew
   ```
 
 ## sed
@@ -109,8 +108,9 @@
 
 ## tree
 * [broot]()
+
   ```bash
-  brew install broot
+  broot on brew
   ```
 
 
