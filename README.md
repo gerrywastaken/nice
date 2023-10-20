@@ -12,6 +12,10 @@
 
 * [choose](https://github.com/theryangeary/choose) - cut but flexible delimiters and a better UI
 
+  ```bash
+  choose-rust on brew
+  ```
+
 ## df
 
 * [duf](https://github.com/muesli/duf)
@@ -53,18 +57,18 @@
 * [xh](https://github.com/ducaale/xh)
 
   ```bash
-  xh on apt
+  xh on apt/brew
   ```
 
 ## kubectl
 
-* [k9s](https://k9scli.io/)
+* [k9s](https://k9scli.io/) - will save you from repetitive strain injury
 
   ```bash
   https://k9scli.io/topics/install/
   ```
   
-* [kdash](https://github.com/kdash-rs/kdash/)
+* [kdash](https://github.com/kdash-rs/kdash/) - maybe one day
 
 ## kubernetes
 
